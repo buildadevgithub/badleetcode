@@ -3,8 +3,8 @@
 
 # Steps to Run:
 
-1. npm install => root folder
-2. install next.js globally : npm install -g next
+1. <code>npm install</code> => root folder
+2. install next.js globally : <code>npm install -g next </code>
 3. create a new firebase web app and copy config json to firebase.ts
 
 <code>const firebaseConfig = {
